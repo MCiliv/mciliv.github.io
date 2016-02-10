@@ -17,7 +17,11 @@ h1 {
 	text-align: center;
 }
 
-h1.resume_header {
+h2 {
+	color: #D2691E;
+}
+
+h3.resume_header {
 	font-style: italic;
 	font-family: 'Lucida Sans Unicode', 'Lucida Sans Unicode';
 	color: #ADD8E6;
