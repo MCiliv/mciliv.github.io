@@ -3,6 +3,10 @@ body {
 	color: blue;
 }
 
+p {
+	text-indent: 50px;
+}
+
 footer {
 	color: green;
 }
