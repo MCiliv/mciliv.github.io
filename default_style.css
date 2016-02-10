@@ -4,14 +4,24 @@ body {
 	color: blue;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 p {
 	text-indent: 25px;
+}
+
+h1 {
+	text-align: center;
 }
 
 h1.resume_header {
 	font-style: italic;
 	font-family: 'Lucida Sans Unicode', 'Lucida Sans Unicode';
 	color: #ADD8E6;
+	text-align: center;
 }
 
 footer {
