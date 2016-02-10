@@ -8,6 +8,12 @@ p {
 	text-indent: 25px;
 }
 
+.resume_header {
+	font-style: italic;
+	font-family: 'Lucida Sans Unicode', 'Lucida Sans Unicode';
+	color: #ADD8E6;
+}
+
 footer {
 	color: green;
 }
