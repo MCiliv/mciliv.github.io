@@ -1,0 +1,9 @@
+# README for Morgan Ciliv's website
+
+This is my personal website.
+
+The resume is slightly out of date, but slightly more detailed.
+
+To publish my website I need to remember...
+git push -u origin master
+
