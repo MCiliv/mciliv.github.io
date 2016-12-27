@@ -12,10 +12,21 @@ body {
 }
 
 img {
-	max-width: 100%;
+	max-width: 30%;
 	height: auto;
+
+        /* Makes the image centered */
+        display: block;
+        margin: auto;
 }
 
+div {
+        text-align: center;
+}
+
+/*
+ * Used by bio.html
+ */
 p {
 	text-indent: 25px;
 }
@@ -25,10 +36,11 @@ h1 {
 }
 
 h2 {
+        text-align: center;
 	color: #D2691E;
 }
 
-h3.resume_header {
+h3 {
 	font-style: italic;
 	font-family: 'Lucida Sans Unicode', 'Lucida Sans Unicode';
 	color: #ADD8E6;
@@ -36,5 +48,6 @@ h3.resume_header {
 }
 
 footer {
+        text-align: center;
 	color: green;
 }
