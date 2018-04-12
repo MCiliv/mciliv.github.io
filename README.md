@@ -1,1 +1,1 @@
-Redirects to Morgan Ciliv's LinkedIn page
+Redirects to Morgan Ciliv's linkedin.com/in/mciliv
